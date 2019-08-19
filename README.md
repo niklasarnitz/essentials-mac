@@ -1,2 +1,28 @@
-# essentials-mac
-This repo contains my essential Mac Gui and cli apps.
+# Essentials for MacOS
+## Essential GUI Apps
+
+- [Spotify](https://spotify.com)
+- [Spectacle](https://www.spectacleapp.com)
+- [iTerm 2](https://iterm2.com)
+- [Transmission](https://transmissionbt.com)
+- [Keka](https://www.keka.io/en/)
+- [Handbrake](https://handbrake.fr)
+- [Word](https://microsoft.com)
+- [PowerPoint](https://microsoft.com)
+- [Excel](https://microsoft.com)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
+- [Slack](https://slack.com)
+- [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner)
+- [macOS Server](https://apple.com)
+- [Xcode](https://developer.apple.com)
+- [Whatsapp Web](https://whatsapp.com)
+- [Affinity Designer](https://affinity.serif.com)
+- [Affinity Photo](https://affinity.serif.com)
+- [Final Cut Pro X](https://apple.com)
+- [Sketch](https://sketch.com)
+- [Loopback](https://rogueamoeba.com/loopback/)
+- [Docker](https://docker.com)
+- [Logic Pro X](https://apple.com)
+- [Fork](https://git-fork.com)
+- [Typora](https://www.typora.io)
+
